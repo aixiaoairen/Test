@@ -12,7 +12,10 @@ from email.mime.text import MIMEText
 download("222018603193001","206416","晨")
 '''
 def download(username,pwd,task):
-    driver = webdriver.Chrome();  # 实例化浏览器
+    option = webdriver.ChromeOptions()
+    # 防止打印一些无用的日志
+    option.add_experimental_option("excludeSwitches", ['enable-automation', 'enable-logging'])
+    driver = webdriver.Chrome(options=option);  # 实例化浏览器
     # 打开网页
     driver.get("http://authserverxg.swu.edu.cn/authserver/login?service=https%3A%2F%2Fswu.campusphere.net%2Fportal%2Flogin");
     # 打开成功

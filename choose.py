@@ -6,7 +6,10 @@ from email.mime.text import MIMEText
 #供调用,返回结果(提示，所选分钟)
 def login(url,username,password):
     re = [];
-    broser = webdriver.Chrome();  # 实例化浏览器
+    option = webdriver.ChromeOptions()
+    # 防止打印一些无用的日志
+    option.add_experimental_option("excludeSwitches", ['enable-automation', 'enable-logging'])
+    broser = webdriver.Chrome(options=option);  # 实例化浏览器
     broser.get(url);#模拟登录
     time.sleep(2);#睡眠2s
     broser.find_element_by_name("szLogonName").send_keys(username);
