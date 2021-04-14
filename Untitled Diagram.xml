@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T09:08:28.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="VqWVdw42F5UwuKopcSVN" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T09:11:13.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="5133w6ilik1Lktyr61PL" version="14.6.0" type="github">
   <diagram id="43SVjIJF7-9dBA3t4Oex" name="Страница-1">
     <mxGraphModel dx="976" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,15 @@
         </mxCell>
         <mxCell id="VdRf2OfZ9tuON2-XvOOM-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;投稿管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" parent="1" vertex="1">
           <mxGeometry x="240" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1ksUk-FiKez9zGhS98VT-51" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="VdRf2OfZ9tuON2-XvOOM-4" target="1ksUk-FiKez9zGhS98VT-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1ksUk-FiKez9zGhS98VT-52" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="VdRf2OfZ9tuON2-XvOOM-4" target="1ksUk-FiKez9zGhS98VT-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1ksUk-FiKez9zGhS98VT-53" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="VdRf2OfZ9tuON2-XvOOM-4" target="1ksUk-FiKez9zGhS98VT-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VdRf2OfZ9tuON2-XvOOM-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;评审管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" parent="1" vertex="1">
           <mxGeometry x="400" y="200" width="120" height="40" as="geometry" />
@@ -100,14 +109,26 @@
         <mxCell id="1ksUk-FiKez9zGhS98VT-35" value="提交手稿" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;rotation=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="270" y="280" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="1ksUk-FiKez9zGhS98VT-36" value="专家审核" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;rotation=0;align=center;" vertex="1" parent="1">
+        <mxCell id="1ksUk-FiKez9zGhS98VT-36" value="手稿状态查看" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;rotation=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="280" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1ksUk-FiKez9zGhS98VT-37" value="会员注册" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;rotation=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="390" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1ksUk-FiKez9zGhS98VT-38" value="会员注册" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;rotation=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="550" y="400" width="20" height="110" as="geometry" />
+          <mxGeometry x="530" y="440" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1ksUk-FiKez9zGhS98VT-46" value="会员注册" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;rotation=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="530" y="400" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1ksUk-FiKez9zGhS98VT-47" value="编辑决策" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;rotation=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="280" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1ksUk-FiKez9zGhS98VT-48" value="专家审稿" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;rotation=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="280" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1ksUk-FiKez9zGhS98VT-49" value="稿件查重" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;rotation=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
