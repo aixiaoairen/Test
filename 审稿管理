@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T12:34:39.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" version="14.6.0" etag="L0-836MnDefb6SX1f7VC" type="github"><diagram id="1QTsxXE8mXuFC47yJKjy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-20T12:40:59.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="6xxGSSLN5w8LziEnYLiE" version="14.6.0" type="github">
+  <diagram id="1QTsxXE8mXuFC47yJKjy" name="第 1 页">
+    <mxGraphModel dx="976" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#B0E3E6" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v3nHpn24-fXoZH_OVcCg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#182E3E;fontColor=#1A1A1A;labelBackgroundColor=#B0E3E6;" edge="1" parent="1" source="v3nHpn24-fXoZH_OVcCg-1" target="v3nHpn24-fXoZH_OVcCg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v3nHpn24-fXoZH_OVcCg-1" value="论文被录用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F08E81;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v3nHpn24-fXoZH_OVcCg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#182E3E;fontColor=#1A1A1A;labelBackgroundColor=#B0E3E6;" edge="1" parent="1" source="v3nHpn24-fXoZH_OVcCg-2" target="v3nHpn24-fXoZH_OVcCg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v3nHpn24-fXoZH_OVcCg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#182E3E;fontColor=#1A1A1A;labelBackgroundColor=#B0E3E6;" edge="1" parent="1" source="v3nHpn24-fXoZH_OVcCg-2" target="v3nHpn24-fXoZH_OVcCg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v3nHpn24-fXoZH_OVcCg-2" value="系统分配卷、期和doi号" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F08E81;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v3nHpn24-fXoZH_OVcCg-3" value="作者" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F08E81;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="390" y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v3nHpn24-fXoZH_OVcCg-6" value="通知作者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v3nHpn24-fXoZH_OVcCg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#182E3E;fontColor=#1A1A1A;labelBackgroundColor=#B0E3E6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="240" as="sourcePoint" />
+            <mxPoint x="650" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v3nHpn24-fXoZH_OVcCg-7" value="工作人员进行编辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F08E81;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="590" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3nHpn24-fXoZH_OVcCg-9" value="发布和见刊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F08E81;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="590" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
